@@ -1,0 +1,24 @@
+[
+  {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-8a7859ef"
+  }, 
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  },
+   {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "kartik"
+   },
+  {
+     "ParameterKey": "SubnetId",
+    "ParameterValue": "subnet-bdad7df0"
+  },
+  {
+    "ParameterKey": "InstanceSecurityGroup",
+    "ParameterValue": "sg-8b7d75e2"
+  }
+]
+
+
