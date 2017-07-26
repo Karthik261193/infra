@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-8a7859ef"
+    "ParameterValue": "ami-a4c7edb2"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -9,15 +9,15 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "kartik"
+    "ParameterValue": "newkey"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-bdad7df0"
+    "ParameterValue": "subnet-c793249d"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-8b7d75e2"
+    "ParameterValue": "sg-a47945d5"
   }
 ]
 
